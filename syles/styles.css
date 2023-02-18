@@ -18,8 +18,8 @@ margin: 0 auto;
 
 .main-content {
 background-color: #fff;
-box-shadow: 6px 6px 20px #f3c9e6;
-  padding: 105px 90px;
+/* box-shadow: 6px 6px 20px #f3c9e6; */
+padding: 105px 90px;
 }
 
 /* about styles */
